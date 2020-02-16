@@ -2,7 +2,7 @@
 description: EndNote 数据库相关介绍和操作
 ---
 
-# 数据库
+# 2. 数据库
 
  [EndNote](https://www.howsci.com/tag/endnote) 的[数据库](https://www.howsci.com/tag/library) \(Library \) 是管理组织和存储文献的，因为[科研动力](https://www.howsci.com/)很多有关 [EndNote](https://www.howsci.com/tag/endnote/) 的文章都牵扯到[数据库](https://www.howsci.com/tag/library)，因此[科研动力](https://www.howsci.com/)本文详细的说明一下 [EndNote](https://www.howsci.com/tag/endnote/) [数据库](https://www.howsci.com/tag/library/)。
 

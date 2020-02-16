@@ -2,7 +2,7 @@
 description: EndNote组面板
 ---
 
-# 组面板
+# 2.3 组面板
 
 利用分组可以更好的组织管理文献。在数据库左侧列出了包含不同类型的组和群组：自动组 automatic groups, 自定义组 custom groups, 智能组 smart groups, 在线检索组 Online Search groups, 以及查找全文组 Find Full Text groups
 

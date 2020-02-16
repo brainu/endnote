@@ -4,7 +4,7 @@ description: >-
   (Integrated Library & Online Search Mode)
 ---
 
-# 显示模式
+# 2.2 显示模式
 
 EndNote的显示模式有以下3种
 

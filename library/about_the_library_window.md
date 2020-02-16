@@ -2,7 +2,7 @@
 description: EndNote 数据库窗口简介
 ---
 
-# 窗口
+# 2.1 窗口
 
 当第一次打开 EndNote 时，所看到的 EndNote 数据库由5个不同面板组成
 
@@ -16,7 +16,7 @@ description: EndNote 数据库窗口简介
 
 面板显示方式取决于所设置的布局，见下面叙述或者参阅[布局](https://wiki.howsci.com/the_display_modes)
 
-![EndNote &#x6570;&#x636E;&#x5E93;&#x7A97;&#x53E3;](../.gitbook/assets/library-window.png)
+![EndNote &#x6570;&#x636E;&#x5E93;&#x7A97;&#x53E3;](../.gitbook/assets/library-window%20%281%29.png)
 
 ## 工具栏
 

@@ -1,4 +1,4 @@
-# 分页面板
+# 2.7 分页面板
 
 分布面板包括3个选项：Reference，Preview 和 PDF Viewer 三个面板
 

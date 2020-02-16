@@ -1,8 +1,8 @@
 ---
-description: EndNote概述 EndNote 是一个在线检索工具 EndNote 是文献组织管理工具 EndNote 可以方便的在文中插入引文和参考文献
+description: EndNote概述
 ---
 
-# EndNote 概述
+# 1. 概述
 
 欢迎使用科研动力 \(www.howsci.com\) EndNote X7.1 中文帮助，该帮助由最新 EndNote X7 英文帮助翻译而来，忠于原版
 

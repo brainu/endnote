@@ -2,7 +2,7 @@
 description: EndNote数据库重点注意事项
 ---
 
-# 注意事项
+# 2.8 注意事项
 
 
 
