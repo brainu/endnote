@@ -71,6 +71,7 @@
     * [年代](references/creating-a-new-reference/year.md)
     * [题目](references/creating-a-new-reference/titles.md)
     * [期刊](references/creating-a-new-reference/journal-names.md)
+    * [页码](references/creating-a-new-reference/pages.md)
   * [Untitled](references/untitled-1.md)
   * [Untitled](references/untitled-2.md)
   * [Untitled](references/untitled-3.md)
