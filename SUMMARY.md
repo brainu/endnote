@@ -90,6 +90,8 @@
     * [字体和样式](references/creating-a-new-reference/font-size-and-style.md)
     * [纯文本](references/creating-a-new-reference/plain-text.md)
     * [模板](references/creating-a-new-reference/entering-several-articles.md)
+    * [特殊字符](references/creating-a-new-reference/special-characters.md)
+    * [字符映射表](references/creating-a-new-reference/using-character-map.md)
   * [Untitled](references/untitled-1.md)
   * [Untitled](references/untitled-2.md)
   * [Untitled](references/untitled-3.md)
