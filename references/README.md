@@ -46,6 +46,16 @@ description: EndNote 关于文献的相关操作和介绍
     * [字体和样式](creating-a-new-reference/font-size-and-style.md)
     * [纯文本](creating-a-new-reference/plain-text.md)
     * [模板](creating-a-new-reference/entering-several-articles.md)
+    * [特殊字符的输入](creating-a-new-reference/special-characters.md)
+    * [字符映射表](creating-a-new-reference/using-character-map.md)
+  * [图表操作](inserting-figures/)
+    * [不同文献类型的图片附件](inserting-figures/selecting-th-appropreftype.md)
+    * [添加图片附件](inserting-figures/inserting-graphics-and-files.md)
+    * [添加图片说明](inserting-figures/entering-a-caption.md)
+    * [图片附件的存储和分享](inserting-figures/storing-and-sharing-figure-files.md)
+    * [编辑图片附件](inserting-figures/editing-figure-files.md)
+    * [删除或替换图片附件](inserting-figures/deleting-or-replacing-figure-files.md)
+    * [图片附件转换为普通附件](inserting-figures/converting-from-figures-to-file-attachments.md)
   * 其他
 
 
