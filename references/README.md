@@ -6,7 +6,8 @@ description: EndNote 关于文献的相关操作和介绍
 
 本章内容是关于数据库中的文献的相关操作及注意事项，该章包括以下内容：
 
-* 文献窗口
+* [文献窗口](the-reference-window.md)
+* [注意事项](important-points-about-ref.md)
 * [新建文献](creating-a-new-reference/)
   * [窗口说明](the-reference-window.md)
   * [注意事项](important-points-about-ref.md)
@@ -17,7 +18,8 @@ description: EndNote 关于文献的相关操作和介绍
     * [关闭](edite-references/closing-references.md)
     * [删除](edite-references/deleting-references.md)
     * [保存](edite-references/saving-references.md)
-    * 谳
+    * [更新文献内容](edite-references/find-reference-updates.md)
+    * [文献信息统计](edite-references/record-summary.md)
   * [新建文献的内容输入](creating-a-new-reference/)
     * [栏目大小](creating-a-new-reference/lan-mu.md)
     * [使用术语表](creating-a-new-reference/using-termlsts-wdataentry.md)
@@ -41,5 +43,10 @@ description: EndNote 关于文献的相关操作和介绍
     * [URL](creating-a-new-reference/url.md)
     * [附件](creating-a-new-reference/file-attachments.md)
     * [图片](creating-a-new-reference/figure-and-caption.md)
+    * [字体和样式](creating-a-new-reference/font-size-and-style.md)
+    * [纯文本](creating-a-new-reference/plain-text.md)
+    * [模板](creating-a-new-reference/entering-several-articles.md)
   * 其他
+
+
 
