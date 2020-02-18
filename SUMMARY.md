@@ -117,6 +117,7 @@
     * [一般应用](references/changing-text/common-uses-for-find-replace-change-move-field.md)
     * [移动复制](references/changing-text/move-fields.md)
     * [查找替换](references/changing-text/find-and-replace.md)
-* [Untitled](untitled.md)
+* [4. 搜索排序](untitled/README.md)
+  * [显示和隐藏文献](untitled/showing-and-hiding-references.md)
 * [科研动力](https://www.howsci.com/)
 
