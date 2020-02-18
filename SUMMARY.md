@@ -120,5 +120,6 @@
 * [4. 搜索排序](untitled/README.md)
   * [显示和隐藏文献](untitled/showing-and-hiding-references.md)
   * [显示隐藏选中的文献](untitled/using-show-selected-and-hide-selected.md)
+  * [显示隐藏文献的应用](untitled/xian-shi-yin-cang-wen-xian-de-ying-yong.md)
 * [科研动力](https://www.howsci.com/)
 
