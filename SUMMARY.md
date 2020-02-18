@@ -128,5 +128,7 @@
   * [栏目搜索](untitled/restricting-searches-to-specific-fields.md)
   * [比较运算符](untitled/using-comparison-operators.md)
   * [布尔运算符](untitled/combining-search-lines-with-and-or.md)
+  * [搜索结果](untitled/combining-results-from-separate-searches.md)
+  * [保存搜索](untitled/saving-search-strategies.md)
 * [科研动力](https://www.howsci.com/)
 
