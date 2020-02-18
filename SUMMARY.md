@@ -126,5 +126,7 @@
   * [搜索注意事项](untitled/search-command-tips.md)
   * [简单搜索](untitled/simple-searches.md)
   * [栏目搜索](untitled/restricting-searches-to-specific-fields.md)
+  * [比较运算符](untitled/using-comparison-operators.md)
+  * [布尔运算符](untitled/combining-search-lines-with-and-or.md)
 * [科研动力](https://www.howsci.com/)
 
