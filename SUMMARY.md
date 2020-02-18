@@ -131,5 +131,8 @@
   * [搜索结果](untitled/combining-results-from-separate-searches.md)
   * [保存搜索](untitled/saving-search-strategies.md)
   * [查找重复文献](untitled/finding-duplicate-references.md)
+  * [文献内信息查找](untitled/finding-text-in-a-single-reference.md)
+  * [文献排序](untitled/sort-library-dialog.md)
+  * [排序规则](untitled/special-cases-in-sorting.md)
 * [科研动力](https://www.howsci.com/)
 
