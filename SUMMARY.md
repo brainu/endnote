@@ -119,5 +119,6 @@
     * [查找替换](references/changing-text/find-and-replace.md)
 * [4. 搜索排序](untitled/README.md)
   * [显示和隐藏文献](untitled/showing-and-hiding-references.md)
+  * [显示隐藏选中的文献](untitled/using-show-selected-and-hide-selected.md)
 * [科研动力](https://www.howsci.com/)
 
