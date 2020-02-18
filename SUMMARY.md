@@ -122,5 +122,7 @@
   * [显示隐藏选中的文献](untitled/using-show-selected-and-hide-selected.md)
   * [显示隐藏文献的应用](untitled/xian-shi-yin-cang-wen-xian-de-ying-yong.md)
   * [搜索文献](untitled/searching-for-references.md)
+  * [快速搜索](untitled/quick-search.md)
+  * [搜索注意事项](untitled/search-command-tips.md)
 * [科研动力](https://www.howsci.com/)
 
