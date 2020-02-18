@@ -124,5 +124,6 @@
   * [搜索文献](untitled/searching-for-references.md)
   * [快速搜索](untitled/quick-search.md)
   * [搜索注意事项](untitled/search-command-tips.md)
+  * [简单搜索](untitled/simple-searches.md)
 * [科研动力](https://www.howsci.com/)
 

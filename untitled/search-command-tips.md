@@ -68,7 +68,7 @@ description: EndNote 搜索注意事项
 
 1. 选择文献列表
 2. 依次打开菜单 Edit &gt;&gt; Select All \( Ctrl+A \) 选择 Howsci 和 Brainu 为作者的所有文献
-3. 依次打开菜单 References &gt;&gt; Show All References \( Ctrl+Shift+M \)
+3. 依次打开菜单 References &gt;&gt; Show All References \( Ctrl+Shift+M\)
 4. 依次打开菜单 References &gt;&gt; Hide Selected References
 
 现在剩下的文献就是作者不是 Brainu 和 Howsci 的文献
