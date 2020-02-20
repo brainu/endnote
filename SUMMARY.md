@@ -137,6 +137,7 @@
 * [5. 组和群组](group/README.md)
   * [5.1 组](group/groups/README.md)
     * [永久组](group/groups/permanent-groups.md)
+    * [临时组](group/groups/temporary-groups.md)
   * [群组](group/group-sets.md)
   * [组管理](group/managing-groups.md)
 * [Untitled](untitled-2.md)
