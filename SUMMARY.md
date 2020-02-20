@@ -140,6 +140,8 @@
     * [临时组](group/groups/temporary-groups.md)
     * [自定义组](group/groups/custom-groups.md)
     * [创建自定义组](group/groups/creating-custom-group.md)
+    * [自定义组添加文献](group/groups/adding-references-to-custom-group.md)
+    * [从组中移除文献](group/groups/removing-references-from-custom-group.md)
   * [群组](group/group-sets.md)
   * [组管理](group/managing-groups.md)
 * [Untitled](untitled-2.md)
