@@ -166,6 +166,9 @@
   * [创建输出格式](output-style/creating-a-new-style.md)
   * [创建作者日期型格式](output-style/creating-an-author-date-style.md)
   * [预览格式](output-style/previewing-styles-and-showing-information.md)
+  * [格式菜单](output-style/the-output-styles-menu.md)
+* [Untitled](untitled-1.md)
+* [Untitled](untitled.md)
 * [Untitled](untitled-3.md)
 * [科研动力](https://www.howsci.com/)
 
