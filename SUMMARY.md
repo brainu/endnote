@@ -161,7 +161,9 @@
     * [删除文献](group/managing-groups/deleting-references-from-a-group.md)
     * [删除组](group/managing-groups/deleting-a-group.md)
 * [6. 输出格式](output-style/README.md)
-  * [Untitled](output-style/untitled.md)
+  * [格式基本组成](output-style/basic-components-of-a-style.md)
+  * [格式管理器](output-style/the-style-manager.md)
+  * [创建输出格式](output-style/creating-a-new-style.md)
 * [Untitled](untitled-3.md)
 * [科研动力](https://www.howsci.com/)
 
