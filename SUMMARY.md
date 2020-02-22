@@ -164,6 +164,8 @@
   * [格式基本组成](output-style/basic-components-of-a-style.md)
   * [格式管理器](output-style/the-style-manager.md)
   * [创建输出格式](output-style/creating-a-new-style.md)
+  * [创建作者日期型格式](output-style/creating-an-author-date-style.md)
+  * [预览格式](output-style/previewing-styles-and-showing-information.md)
 * [Untitled](untitled-3.md)
 * [科研动力](https://www.howsci.com/)
 
