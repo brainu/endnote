@@ -144,6 +144,7 @@
     * [从组中移除文献](group/groups/removing-references-from-custom-group.md)
     * [智能组](group/groups/smart-groups.md)
     * [创建智能组](group/groups/creating-a-smart-group.md)
+    * [搜索策略建立智能组](group/groups/creating-smart-group-from-existing-search-strategy.md)
   * [Untitled](group/untitled-2.md)
   * [Untitled](group/untitled-1.md)
   * [Untitled](group/untitled.md)
