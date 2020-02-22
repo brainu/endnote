@@ -160,7 +160,7 @@
     * [重命名组](group/managing-groups/renaming-a-group.md)
     * [删除文献](group/managing-groups/deleting-references-from-a-group.md)
     * [删除组](group/managing-groups/deleting-a-group.md)
-* [Untitled](untitled-2.md)
+* [6. 输出格式](output-style.md)
 * [Untitled](untitled-3.md)
 * [科研动力](https://www.howsci.com/)
 
