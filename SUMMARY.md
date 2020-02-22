@@ -172,6 +172,8 @@
   * [保存格式](output-style/copying-styles-1.md)
   * [删除格式](output-style/deleting-styles.md)
   * [撤消格式操作](output-style/reverting-changes-to-a-style.md)
+  * [无合适格式](output-style/what-should-i-do-if-my-style-is-not-included.md)
+  * [格式存储](output-style/accessing-styles-in-other-places.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled.md)
