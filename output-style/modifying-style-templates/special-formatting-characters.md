@@ -16,17 +16,17 @@ description: EndNote 输出格式的特殊格式化符号
 
 非中断空格在参考文献中会转换成一个普通的空格。非中断空格一般用途包括\(下面的◊就表示一个非中断空格\)：
 
-  p^pp◊Pages
+  `p^pp◊Pages`
 
-  Edition◊ed.
+  `Edition◊ed.`
 
-  vol◊Volume
+  `vol◊Volume`
 
-  Editor◊Ed.^
+  `Editor◊Ed.^`
 
 非中断空格还用于和竖线\(见下面\)一起使用来改变标点符号的依赖关系
 
-Volume\|: ◊Issue\|.
+`Volume|: ◊Issue|.`
 
 上面的例子中的冒号用非中断空格连接于Issue，因此如果Issue没有内容的话冒号在参考文献中就不会出现
 
@@ -38,8 +38,10 @@ Volume\|: ◊Issue\|.
 
 例如[期刊](http://www.howsci.com/tag/journaltag/)的有些格式需要在volume和issue之间有两个句号，这样的格式可能如下 \(· 表示一个空格\):
 
-**Journal Article**  
-Author.·"Title."·Journal·Volume.Issue·\(Year\):·Pages.
+**`Journal Article`**  
+``
+
+`Author.·"Title."·Journal·Volume.Issue·(Year):·Pages.`
 
 但是当Issue没有内容时，参考文献的格式就会不正确了，如下所述：
 
