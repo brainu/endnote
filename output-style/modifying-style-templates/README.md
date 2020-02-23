@@ -4,7 +4,7 @@ description: EndNote 输出格式编辑方法
 
 # 编辑格式
 
-如果期刊的参考文献格式要求[EndNote](http://www.howsci.com/tag/endnote/)内没有，那么可以根据需要编辑格式\(见：[没有期刊的参考文献格式怎么办](what-should-i-do-if-my-style-is-not-included.md)\)。编辑格式需要理解格式的工作和基本组成，详见[格式基本组成](http://www.howsci.com/endnote/wiki/15Styles/Basic_Components_ofaStyle.htm)。下面的教程可能有助于建立和编辑格式：
+如果期刊的参考文献格式要求[EndNote](http://www.howsci.com/tag/endnote/)内没有，那么可以根据需要编辑格式\(见：[没有期刊的参考文献格式怎么办](../what-should-i-do-if-my-style-is-not-included.md)\)。编辑格式需要理解格式的工作和基本组成，详见[格式基本组成](http://www.howsci.com/endnote/wiki/15Styles/Basic_Components_ofaStyle.htm)。下面的教程可能有助于建立和编辑格式：
 
 * [引文模板](http://www.howsci.com/endnote/wiki/15Styles/Citation_Template.htm)
 * [参考文献模板](http://www.howsci.com/endnote/wiki/15Styles/Bibliography_nFtnoteTmplts.htm)
