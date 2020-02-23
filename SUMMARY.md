@@ -178,6 +178,7 @@
     * [引文模板](output-style/modifying-style-templates/citations-template.md)
     * [脚注格式](output-style/modifying-style-templates/footnotes-defining-long-and-short-forms.md)
     * [参考文献模板](output-style/modifying-style-templates/bibliography-and-footnote-templates.md)
+    * [标点符号](output-style/modifying-style-templates/changing-the-punctuation-in-a-formatted-reference.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled.md)
