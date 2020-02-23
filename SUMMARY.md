@@ -184,6 +184,7 @@
     * [字体和外观](output-style/modifying-style-templates/fonts-and-text-styles.md)
     * [格式模板的规则](output-style/modifying-style-templates/rules-for-working-with-style-templates.md)
     * [自动清理](output-style/modifying-style-templates/endnote-cleans-up.md)
+    * [特殊格式化符号](output-style/modifying-style-templates/special-formatting-characters.md)
 * [Untitled](untitled-4.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-1.md)
