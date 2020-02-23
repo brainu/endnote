@@ -176,6 +176,7 @@
   * [格式存储](output-style/accessing-styles-in-other-places.md)
   * [编辑格式](output-style/modifying-style-templates/README.md)
     * [引文模板](output-style/modifying-style-templates/citations-template.md)
+    * [脚注格式](output-style/modifying-style-templates/footnotes-defining-long-and-short-forms.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled.md)
