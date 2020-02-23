@@ -183,6 +183,7 @@
     * [增加文献类型](output-style/modifying-style-templates/adding-new-reference-types.md)
     * [字体和外观](output-style/modifying-style-templates/fonts-and-text-styles.md)
     * [格式模板的规则](output-style/modifying-style-templates/rules-for-working-with-style-templates.md)
+    * [自动清理](output-style/modifying-style-templates/endnote-cleans-up.md)
 * [Untitled](untitled-4.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-1.md)
