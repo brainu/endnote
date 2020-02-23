@@ -182,6 +182,7 @@
     * [增加和移除栏目](output-style/modifying-style-templates/adding-and-removing-fields-in-a-formatted-reference.md)
     * [增加文献类型](output-style/modifying-style-templates/adding-new-reference-types.md)
     * [字体和外观](output-style/modifying-style-templates/fonts-and-text-styles.md)
+    * [格式模板的规则](output-style/modifying-style-templates/rules-for-working-with-style-templates.md)
 * [Untitled](untitled-4.md)
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-1.md)
