@@ -187,6 +187,7 @@
     * [特殊格式化符号](output-style/modifying-style-templates/special-formatting-characters.md)
   * [附加选项](output-style/additional-style-formatting-options/README.md)
     * [歧义文献](output-style/additional-style-formatting-options/ambiguous-citations.md)
+    * [匿名文献](output-style/additional-style-formatting-options/anonymous-works.md)
   * [Untitled](output-style/untitled-1.md)
 * [Untitled](untitled-4.md)
 * [Untitled](untitled-2.md)
