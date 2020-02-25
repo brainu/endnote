@@ -197,6 +197,7 @@
     * [引文作者姓名](output-style/additional-style-formatting-options/citation-author-names.md)
     * [编者姓名和列表](output-style/additional-style-formatting-options/editor-list-and-editor-names.md)
     * [参考文献和脚注的内容替换](output-style/additional-style-formatting-options/field-substitutions-bibliography-and-footnotes.md)
+    * [期刊名称](output-style/additional-style-formatting-options/journal-names.md)
   * [Untitled](output-style/untitled.md)
   * [Untitled](output-style/untitled-1.md)
 * [Untitled](untitled-4.md)
