@@ -189,6 +189,7 @@
     * [歧义文献](output-style/additional-style-formatting-options/ambiguous-citations.md)
     * [匿名文献](output-style/additional-style-formatting-options/anonymous-works.md)
     * [APA 6版格式](output-style/additional-style-formatting-options/apa-6th-settings.md)
+    * [作者列表](output-style/additional-style-formatting-options/author-lists-bibliography-and-footnotes.md)
   * [Untitled](output-style/untitled-1.md)
 * [Untitled](untitled-4.md)
 * [Untitled](untitled-2.md)
