@@ -12,9 +12,9 @@ description: EndNote 滤件（Filters）编辑方法
 * [删除滤件](deleting-filters.md)
 * [滤件基本结构](basic-components-of-a-filter.md)
 * [滤件编辑窗口](filter-editor-window.md)
-* 关于本滤件
-* 新建滤件
-* 滤件信息输入注意事项
-* 数据文件和模板实例
-* 修改现有滤件实例
+* [关于本滤件](about-this-filter.md)
+* [新建滤件](creating-a-new-filter.md)
+* [滤件信息输入注意事项](tips-for-entering-tags-and-fields.md)
+* [数据文件和模板实例](example-data-file-and-templates.md)
+* [修改现有滤件实例](modifying-an-existing-filter-example.md)
 
