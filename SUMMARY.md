@@ -202,6 +202,7 @@
     * [页码](output-style/additional-style-formatting-options/page-numbers.md)
     * [标点符号](output-style/additional-style-formatting-options/punctuation.md)
     * [脚注的重复引用](output-style/additional-style-formatting-options/repeated-citations-in-footnotes.md)
+    * [章节](output-style/additional-style-formatting-options/sections.md)
   * [Untitled](output-style/untitled.md)
   * [Untitled](output-style/untitled-1.md)
 * [Untitled](untitled-4.md)
