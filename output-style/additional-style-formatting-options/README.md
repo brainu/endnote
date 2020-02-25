@@ -18,7 +18,7 @@
 * [作者列表\(](citation-author-lists.md)引文\)
 * [作者姓名](author-names-bibliography-and-footnotes.md)\(参考文献和页脚\)
 * [作者姓名](citation-author-names.md)\(引文\)
-* 编者列表和编者姓名
+* [编者列表和编者姓名](editor-list-and-editor-names.md)
 * [排序](sort-order-bibliographies-and-multiple-citations.md)
 * [题目大写](title-capitalization.md)
 * [图表位置和说明](figure-and-table-placement-and-captions.md)
