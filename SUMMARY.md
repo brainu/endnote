@@ -203,6 +203,8 @@
     * [标点符号](output-style/additional-style-formatting-options/punctuation.md)
     * [脚注的重复引用](output-style/additional-style-formatting-options/repeated-citations-in-footnotes.md)
     * [章节](output-style/additional-style-formatting-options/sections.md)
+    * [参考文献和引文排序](output-style/additional-style-formatting-options/sort-order-bibliographies-and-multiple-citations.md)
+    * [题目大写](output-style/additional-style-formatting-options/title-capitalization.md)
   * [Untitled](output-style/untitled.md)
   * [Untitled](output-style/untitled-1.md)
 * [Untitled](untitled-4.md)
