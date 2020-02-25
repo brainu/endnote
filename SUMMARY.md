@@ -238,6 +238,7 @@
     * [作者和编者的分析](filters/filter-options/author-parsing.md)
     * [连续数据行](filters/filter-options/continuation-lines.md)
     * [文献类型](filters/filter-options/reference-type.md)
+    * [栏目编辑](filters/filter-options/field-editing.md)
     * [Untitled](filters/filter-options/untitled.md)
   * [Untitled](filters/untitled-1.md)
   * [Untitled](filters/untitled.md)
