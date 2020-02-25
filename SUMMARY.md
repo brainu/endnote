@@ -191,6 +191,8 @@
     * [APA 6版格式](output-style/additional-style-formatting-options/apa-6th-settings.md)
     * [作者列表](output-style/additional-style-formatting-options/author-lists-bibliography-and-footnotes.md)
     * [作者姓名](output-style/additional-style-formatting-options/author-names-bibliography-and-footnotes.md)
+    * [参考文献样式](output-style/additional-style-formatting-options/bibliography-layout.md)
+  * [Untitled](output-style/untitled.md)
   * [Untitled](output-style/untitled-1.md)
 * [Untitled](untitled-4.md)
 * [Untitled](untitled-2.md)
