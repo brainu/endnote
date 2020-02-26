@@ -295,6 +295,7 @@
   * [修改和隐藏文献类型](reference-types/adding-changing-and-hiding-reference-types.md)
   * [增加删除和重命名栏目](reference-types/adding-deleting-and-renaming-fields.md)
   * [分享文献类型](reference-types/sharing-your-reference-type-table.md)
+  * [特殊栏目](reference-types/special-fields.md)
   * [Untitled](reference-types/untitled-2.md)
   * [文献类型列表](reference-types/list-of-reference-types.md)
   * [Untitled](reference-types/untitled-1.md)
