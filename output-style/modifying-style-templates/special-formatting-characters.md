@@ -53,16 +53,16 @@ Clark, H. and Carlson, T. "Hearers and Speech Acts." Language 58.\(1982\): 332-3
 
 如果在指标前插入竖线，空格的依赖关系就从 Volume转换成了Issue。在Issue前的空格前添加另一个竖线就会使空格不再依赖于Issue。使用竖线连接非中断空格，这些改变如下所述：
 
-**Journal Article**  
-Author.·"Title."·Journal Volume\|.Issue\|·\(Year\)\|:·Pages\|.
+**`Journal Article`**  
+`Author.·"Title."·Journal Volume|.Issue|·(Year)|:·Pages|.`
 
 最后的格式化参考文献格式就是正确了，此时issue没有内容年代之前的空格也不会消失
 
-Clark, H. and Carlson, T. "Hearers and Speech Acts." Language 58 \(1982\): 332-373.
+`Clark, H. and Carlson, T. "Hearers and Speech Acts." Language 58 (1982): 332-373.`
 
 另一个竖线的常见例子如下：
 
-Publisher\|: ◊City
+`Publisher|: ◊City`
 
 Pages\|. \(让最后一个空格变成独立的\)
 
@@ -70,14 +70,14 @@ Pages\|. \(让最后一个空格变成独立的\)
 
 有时可能需要显示所输入的文本，例如可能想在编辑姓名后使用单词Editor
 
-Jones, V.R., B.K. Marion, and R.L. Zeiss, The Theory of Foraging, in A History of Foraging Behavior, B.J. Bloggs, Editor. 1976, Smith and Barnes: New York.
+`Jones, V.R., B.K. Marion, and R.L. Zeiss, The Theory of Foraging, in A History of Foraging Behavior, B.J. Bloggs, Editor. 1976, Smith and Barnes: New York.`
 
 正常情况下在编辑格式时输入的Editor用来解释书籍的栏目名，这甚至是栏目的名称是一个单词的一部分，如Editors或Issued。
 
 为了强制EndNote把一个词认为是一个文本而不是模板下的栏目名，需要在Editor前后加上一个重音符\(\`Editor\`\)。重音符可以通过键盘左上角的\(~\)键输入。记得要用非中断空格连接文本\`Editor\`和Editor
 
-**Book Section**  
-Author,·Title\|.◊in◊Book·Title\|,◊Editor,◊\`Editor\`\|.·Year,·Publisher\|:◊City\|,·p.◊Pages.
+**`Book Section`**  
+``Author,·Title|.◊in◊Book·Title|,◊Editor,◊`Editor`|.·Year,·Publisher|:◊City|,·p.◊Pages.``
 
 ### 单数/复数-分隔符\(脱字符 ^\)
 
@@ -85,11 +85,11 @@ Author,·Title\|.◊in◊Book·Title\|,◊Editor,◊\`Editor\`\|.·Year,·Publis
 
 在[格式](http://www.howsci.com/tag/output-styles/)模板中，输入单个和多个标签可用脱字符\(从Insert Field列表中插入或者直接输入Shift+6\)。单数时采用脱字符前面的任何文本，但是不包括空格；复数时采用脱字符后面的文本。输入的文本如果有空格间隔，必须使用非中断空格，例如下在的例子
 
-**Edited Book**  
-Editor, ◊ed.^eds.·Title.·Number·of·Volumes◊vols\|.◊Vol.·Volume\|,Series Title\|.·City\|:◊Publisher\|, ◊Year\|.
+**`Edited Book`**  
+`Editor, ◊ed.^eds.·Title.·Number·of·Volumes◊vols|.◊Vol.·Volume|,Series Title|.·City|:◊Publisher|, ◊Year|.`
 
 或者像这样
 
-**Journal Article**  
-Author.·"Title,"·Journal Volume\|.·Issue\|\(Year\)\|:p.^pp.·Pages\|.
+**`Journal Article`**  
+`Author.·"Title,"·Journal Volume|.·Issue|(Year)|:p.^pp.·Pages|.`
 
