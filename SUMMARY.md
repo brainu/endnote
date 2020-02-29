@@ -328,5 +328,6 @@
 * [11. 术语表](term-lists/README.md)
   * [术语表要点](term-lists/important-points-about-term-lists.md)
   * [导出和打印术语表](term-lists/exporting-and-printing-term-lists.md)
+  * [添加术语](term-lists/add-terms.md)
 * [科研动力](https://www.howsci.com/)
 
