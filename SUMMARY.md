@@ -325,9 +325,8 @@
     * [Serial & Standard](reference-types/list-of-reference-types/serial-and-standard.md)
     * [Statute & Thesis](reference-types/list-of-reference-types/statute-and-thesis.md)
     * [Unpublished Work & Web Page](reference-types/list-of-reference-types/unpublished-work-and-web-page.md)
-    * [Unused](reference-types/list-of-reference-types/unused.md)
-  * [Untitled](reference-types/untitled.md)
-  * [Untitled](reference-types/untitled-1.md)
-* [Untitled](untitled-3.md)
+* [11. 术语表](term-lists/README.md)
+  * [术语表要点](term-lists/important-points-about-term-lists.md)
+  * [导出和打印术语表](term-lists/exporting-and-printing-term-lists.md)
 * [科研动力](https://www.howsci.com/)
 
