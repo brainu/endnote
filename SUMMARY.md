@@ -330,6 +330,7 @@
   * [导出和打印术语表](term-lists/exporting-and-printing-term-lists.md)
   * [添加术语](term-lists/add-terms/README.md)
     * [自动更新术语表](term-lists/add-terms/automatic-updating-of-term-lists.md)
+    * [术语表间复制术语](term-lists/add-terms/copying-terms-between-lists.md)
   * [Untitled](term-lists/untitled.md)
   * [Untitled](term-lists/untitled-1.md)
 * [科研动力](https://www.howsci.com/)
