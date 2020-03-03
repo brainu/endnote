@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EndNote中文帮助文件@科研动力](README.md)
+* [前言](README.md)
 * [修改记录](change-logs.md)
 * [1. 概述](intro/README.md)
   * [EndNote X7.1 更新功能](intro/whats_new_in_en_x7.md)

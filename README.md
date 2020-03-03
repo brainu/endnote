@@ -1,4 +1,8 @@
-# EndNote中文帮助文件@科研动力
+---
+description: EndNote 中文帮助文件的由来
+---
+
+# 前言
 
 [科研动力](https://www.howsci.com/)EndNote中文帮助文件是完全基于EndNote X7 的英文帮助文件中文化而成。旨在为大家提供一个全面的EndNote使用方法中文教程。
 
