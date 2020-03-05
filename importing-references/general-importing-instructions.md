@@ -2,7 +2,7 @@
 description: EndNote 导入文献一般过程
 ---
 
-# 13. 导入文献
+# 导入文献一般过程
 
 导入文献一般过程
 
@@ -19,7 +19,7 @@ description: EndNote 导入文献一般过程
 
 **注：**导入需要花费一些时间，尤其是导入文献数量巨多时，耐心等待
 
-导入完成后，新导入的文献归于 Imported References 组，如果导入的数据与自己期望的数据有出入，可以使用[栏目编辑](filters/filter-options/field-editing.md)命令
+导入完成后，新导入的文献归于 Imported References 组，如果导入的数据与自己期望的数据有出入，可以使用[栏目编辑](../filters/filter-options/field-editing.md)命令
 
 选择 Show All References 可以显示所有文献
 
