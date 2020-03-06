@@ -440,6 +440,8 @@
     * [移动或复制引文](cwyw/citations/moving-or-copying-citations.md)
     * [删除引文](cwyw/citations/deleting-citations.md)
     * [转换为临时引文](cwyw/citations/unformatting-citations.md)
+    * [OpenOffice 插入文献](cwyw/citations/openoffice.md)
+    * [WPS中插入文献](cwyw/citations/wps-zhong-cha-ru-wen-xian.md)
   * [15.2 参考文献目录](cwyw/bibliographies/README.md)
     * [添加常用格式](cwyw/bibliographies/adding-styles-to-the-output-styles-menu.md)
     * [参考文献分类显示](cwyw/bibliographies/configure-categories.md)
