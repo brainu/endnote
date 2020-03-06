@@ -477,7 +477,8 @@
   * [PowePoint 插入引文](powepoint/insert-citations.md)
   * [PowePoint 插入参考文献](powepoint/insert-references.md)
   * [PowePoint 的输出格式](powepoint/output-styles.md)
-* [17. RTF](untitled-1.md)
+* [17. RTF](rtf/README.md)
+  * [RTF格式化基本步骤](rtf/basic-instructions.md)
 * [Untitled](untitled.md)
 * [科研动力](https://www.howsci.com/)
 
