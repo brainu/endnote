@@ -494,6 +494,7 @@
   * [复制格式化的文献](rtf/copying-formatted-references.md)
   * [重新扫描文件](rtf/rescanning-the-paper.md)
   * [在数据库对文献进行修改](rtf/modifying-references-in-your-library.md)
+  * [查找数据库相应文献并编辑](rtf/finding-and-labeling-references-used-in-a-paper.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled.md)
 * [科研动力](https://www.howsci.com/)
