@@ -485,6 +485,9 @@
   * [脚注和尾注中插入文献](rtf/citing-references-in-footnotes.md)
   * [RTF手动输入引文](rtf/typing-citations-into-your-paper.md)
   * [数据库中文献编号](rtf/record-numbers.md)
+  * [格式化窗口](rtf/format-paper.md)
+  * [参考文献格式](rtf/bibliographic-styles.md)
+  * [格式化参考文献预览](rtf/previewing-formatted-references.md)
 * [Untitled](untitled.md)
 * [科研动力](https://www.howsci.com/)
 
