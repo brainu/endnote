@@ -488,6 +488,13 @@
   * [格式化窗口](rtf/format-paper.md)
   * [参考文献格式](rtf/bibliographic-styles.md)
   * [格式化参考文献预览](rtf/previewing-formatted-references.md)
+  * [重格式化文章](rtf/reformatting-a-paper.md)
+  * [多个文件生成参考文献目录](rtf/creating-one-bibliography-from-several-papers.md)
+  * [参考文献特殊起始编号](rtf/specifying-the-starting-number-of-a-bibliography.md)
+  * [复制格式化的文献](rtf/copying-formatted-references.md)
+  * [重新扫描文件](rtf/rescanning-the-paper.md)
+  * [在数据库对文献进行修改](rtf/modifying-references-in-your-library.md)
+* [Untitled](untitled-1.md)
 * [Untitled](untitled.md)
 * [科研动力](https://www.howsci.com/)
 
