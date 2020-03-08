@@ -513,6 +513,7 @@
 * [19. 主题目录](subject-bibliographies/README.md)
   * [创建主题目录](subject-bibliographies/printing-a-subject-bibliography.md)
   * [打印主题列表](subject-bibliographies/printing-a-subject-list.md)
+  * [作者姓名作为主题标题](subject-bibliographies/using-author-names-as-subject-headings.md)
 * [Untitled](untitled-1.md)
 * [科研动力](https://www.howsci.com/)
 
