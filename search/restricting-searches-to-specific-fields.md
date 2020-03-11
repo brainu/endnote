@@ -25,7 +25,7 @@ description: EndNote 特定栏目的搜索
 * 如果输入的一个句子，EndNote 会在所有字段或者 PDF 文件一起查找所有单词。如搜索 **howsci website** ，EndNote 会在所有栏目或者 PDF 文件中查找包含 howsci websit 的文献。
 * 当搜索特定字段，如 PDF 或者 Any Field + PDF with Notes，EndNote 把搜索引号\( " " \)作为字符。例如检索式 **"howsci website"**，EndNote 会在文献，PDF 文件或者笔记中查找找包含 "howsci website" 的文献。EndNote 会忽略 howsci website 的文献，因为它们不含有引号。
 
-**注：**当使用这些选项时，匹配大小写 \( Match Case \) 和匹配单词 \( Match Word \) 会自动起作用，详见[搜索面板](../library/the_search_pane.md)
+**注：**当使用这些选项时，匹配大小写 \( Match Case \) 和匹配单词 \( Match Word \) 会自动起作用，详见[搜索面板](../lib/the_search_pane.md)
 
 ### 一个单词搜索规则
 

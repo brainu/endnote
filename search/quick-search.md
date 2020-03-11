@@ -8,5 +8,5 @@ description: EndNote 的快速搜索文献方法
 
 当输入两个及其以上的搜索词时，EndNote 默认使用 AND 布尔式搜索。如输入 howsci dot com 相当于howsci AND dot AND com
 
-如果需要更专业和复杂的搜索，请使用[搜索面板](../library/the_search_pane.md)
+如果需要更专业和复杂的搜索，请使用[搜索面板](../lib/the_search_pane.md)
 
