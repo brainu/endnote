@@ -1,4 +1,8 @@
-# 使用 EndNote 要注意的 10 个重要事项
+---
+description: 使用 EndNote 要注意的 10 个重要事项
+---
+
+# 重要注意事项
 
 1. EndNote 并不能完全替代手动，只是在手动的情况下更易用，但仍需要人为干预
 2. 垃圾进垃圾出，因此要检查 EndNote 导入结果，尤其是当使用 Google Scholar 这样的数据库导入文献时，因为谷歌学术包含了很多垃圾学术研究成果。详见 [Google Scholar 搜索结果充斥着垃圾科学](https://www.howsci.com/google-scholar-is-filled-with-junk-science.html)
