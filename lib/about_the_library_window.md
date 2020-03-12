@@ -7,20 +7,20 @@ description: EndNote 数据库窗口简介
 当第一次打开 EndNote 时，所看到的 EndNote 数据库由5个不同面板组成
 
 * [组面板 The Groups Panel](the_groups_pane.md)
-* [PDF查看面板 The PDF Viewer Panel](https://wiki.howsci.com/the_pdf_pane)
-* [文献列表面板 The Reference List Panel](https://wiki.howsci.com/the_reflist_pane)
-* [搜索面板 The Search Panel](https://wiki.howsci.com//the_search_pane)
-* [分页面板 The Tabs Panel](https://wiki.howsci.com/the_tabs_pane)
+* [PDF查看面板 The PDF Viewer Panel](the_pdf_pane.md)
+* [文献列表面板 The Reference List Panel](the_reflist_pane.md)
+* [搜索面板 The Search Panel](the_search_pane.md)
+* [分页面板 The Tabs Panel](the_tabs_pane.md)
 
 可以通过鼠标点击面板的方法激活面板，或者通过「F6」在不同面板之间进行切换。
 
-面板显示方式取决于所设置的布局，见下面叙述或者参阅[布局](https://wiki.howsci.com/the_display_modes)
+面板显示方式取决于所设置的布局，见下面叙述或者参阅[布局](the_display_modes.md)
 
 ![EndNote &#x6570;&#x636E;&#x5E93;&#x7A97;&#x53E3;](../.gitbook/assets/library-window%20%281%29.png)
 
 ## 工具栏
 
-数据库工具栏有很多不同命令对文献进行操作，每个命令的详述请参阅[工具栏](https://wiki.howsci.com/toolbarswin)
+数据库工具栏有很多不同命令对文献进行操作，每个命令的详述请参阅[工具栏](../keyboard/toolbars.md)
 
 ![EndNote &#x5DE5;&#x5177;&#x680F; &#xFF08;Windows&#x7CFB;&#x7EDF;&#x4E0B;&#xFF09;](../.gitbook/assets/library-window-toolbar.png)
 
@@ -55,9 +55,9 @@ EndNote 桌面版如果购买了序列号有2年的免费同步到在线数据�
 
 有了EndNote在线账号就可以同步了，同步方法同上。
 
-**注意：**建议同步前先备份数据库，最好[压缩备份数据库](https://wiki.howsci.com/saving_a_cmprssdcpy_ofa_lib)方式进行备份。
+**注意：**建议同步前先备份数据库，最好[压缩备份数据库](library-operation/saving_a_copy_of_a_lib.md)方式进行备份。
 
-更多信息请参阅：[同步选项](https://wiki.howsci.com/synchronization_prefs) 和 [同步功能](https://wiki.howsci.com/overview_of_sync_process)
+更多信息请参阅：[同步选项](../preferences/sync-preferences.md) 和 [同步功能](../en-web/sync-process.md)
 
 ## 布局
 
@@ -85,7 +85,7 @@ EndNote 桌面版如果购买了序列号有2年的免费同步到在线数据�
 
 如果想隐藏搜索面板可在 EndNote 窗口右上方的「Hide Search Panel 」进行隐藏，此时按钮变成了「Show Search Panel 」，再次点击又可显示搜索面板
 
-检索在线数据库时，在组面板中选择「Online Search」组，或者在工具栏中直接选择在线搜索，详见[搜索面板](https://wiki.howsci.com/the_search_pane)
+检索在线数据库时，在组面板中选择「Online Search」组，或者在工具栏中直接选择在线搜索，详见[搜索面板](the_search_pane.md)
 
 ## 显示模式
 
@@ -103,7 +103,7 @@ EndNote数据库有3种显示模式，更多信息请参阅：[EndNote三种Mode
 
 **注意：** 如果不想保留所有检索结果建议使用在线模式，但要需要的文献拷贝到本地数据库中。科研动力更建议是「Integrated Library & Online Search Mode」模式，原因详见[EndNote三种Mode模式的区别](http://www.howsci.com/endnot-the-diffrence-between-three-modes.html)
 
-更多信息请参阅：[显示模式](https://wiki.howsci.com/the_display_modes)
+更多信息请参阅：[显示模式](the_display_modes.md)
 
 ## 窗口大小
 
@@ -115,7 +115,7 @@ EndNote 会记住最后窗口大小，下次再打开的时候就会最后窗口
 
 EndNote 默认字体依 Windows 版本而定。如果想自定义字体大小 可通过选项设置，依次打开「Edit」 &gt;&gt; 「Preferences」 &gt;&gt; 「Display Fonts」 &gt;&gt; 「Library」进行设置。
 
-General 是控制的预览面板字体，Lable 是控制的标签字体，Search 是控制的搜索字体。更多信息请参阅：[字体设置](https://wiki.howsci.com/display_fonts)
+General 是控制的预览面板字体，Lable 是控制的标签字体，Search 是控制的搜索字体。更多信息请参阅：[字体设置](../preferences/display-fonts-preferences.md)
 
 **注意：**此处的字体设置不影响在Word中插入参考文献的字体样式和大小
 
@@ -132,19 +132,19 @@ EndNote默认在文献列表面板中第一栏是显示 Read / Unread，之后�
 * Last Updated
 * Reference Type
 
-要以通过拖放的方式对栏目进行排序。也可以通过右键选择需要显示或者隐藏的区域，详见[显示栏目设置](https://wiki.howsci.com/display_fields)
+要以通过拖放的方式对栏目进行排序。也可以通过右键选择需要显示或者隐藏的区域，详见[显示栏目设置](../preferences/display-fields-preferences.md)
 
 ### 文献排序
 
-EndNote 默认是以作者名字进行排序的，如想改变排序方法，在文献列表面板的工具栏进行选择排序即可。详见 [文献排序](https://wiki.howsci.com/sorting_the_library)
+EndNote 默认是以作者名字进行排序的，如想改变排序方法，在文献列表面板的工具栏进行选择排序即可。详见[文献排序](../search/sort-library-dialog.md)
 
 ## 相关教程
 
-* [显示栏目设置](https://wiki.howsci.com/display_fields)
-* [字体设置](https://wiki.howsci.com/display_fonts)
-* [数据库注意要点](https://wiki.howsci.com/important_points_abt_libs)
-* [文献列表面板](https://wiki.howsci.com/the_reflist_pane)
-* [数据库统计](https://wiki.howsci.com/record_summary)
+* [显示栏目设置](../preferences/display-fields-preferences.md)
+* [字体设置](../preferences/display-fonts-preferences.md)
+* [数据库注意要点](../intro/ten-things-to-remember.md)
+* [文献列表面板](the_reflist_pane.md)
+* [数据库统计](../references/edite-references/record-summary.md)
 
 
 
