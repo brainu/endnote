@@ -2,7 +2,7 @@
 
 分布面板包括3个选项：Reference，Preview 和 PDF Viewer 三个面板
 
-可以通过右下角的 Layout 按钮改变信息面板的布局，共有7种布局模式可选。参阅[数据库窗口](about_the_library_window.md)了解布局详细信息。
+可以通过右下角的 Layout 按钮改变信息面板的布局，共有7种布局模式可选。参阅[数据库窗口](library-window.md)了解布局详细信息。
 
 可以通过拖拉方式改变分页面板的大小。
 

@@ -6,7 +6,7 @@ description: EndNote 数据库窗口简介
 
 当第一次打开 EndNote 时，所看到的 EndNote 数据库由5个不同面板组成
 
-* [组面板 The Groups Panel](the_groups_pane.md)
+* [组面板 The Groups Panel](groups-panel.md)
 * [PDF查看面板 The PDF Viewer Panel](the_pdf_pane.md)
 * [文献列表面板 The Reference List Panel](the_reflist_pane.md)
 * [搜索面板 The Search Panel](the_search_pane.md)
@@ -14,7 +14,7 @@ description: EndNote 数据库窗口简介
 
 可以通过鼠标点击面板的方法激活面板，或者通过「F6」在不同面板之间进行切换。
 
-面板显示方式取决于所设置的布局，见下面叙述或者参阅[布局](the_display_modes.md)
+面板显示方式取决于所设置的布局，见下面叙述或者参阅[布局](display-modes.md)
 
 ![EndNote &#x6570;&#x636E;&#x5E93;&#x7A97;&#x53E3;](../.gitbook/assets/library-window%20%281%29.png)
 
@@ -103,7 +103,7 @@ EndNote数据库有3种显示模式，更多信息请参阅：[EndNote三种Mode
 
 **注意：** 如果不想保留所有检索结果建议使用在线模式，但要需要的文献拷贝到本地数据库中。科研动力更建议是「Integrated Library & Online Search Mode」模式，原因详见[EndNote三种Mode模式的区别](http://www.howsci.com/endnot-the-diffrence-between-three-modes.html)
 
-更多信息请参阅：[显示模式](the_display_modes.md)
+更多信息请参阅：[显示模式](display-modes.md)
 
 ## 窗口大小
 

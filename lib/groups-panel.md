@@ -8,7 +8,7 @@ description: EndNote组面板
 
 一个新的数据库只包括未归类组 Unfiled, 和垃圾箱 Trash groups。选择组可以显示组内的文献
 
-**注意：**如果你发现没有任何组，请参阅[显示模式](the_display_modes.md)
+**注意：**如果你发现没有任何组，请参阅[显示模式](display-modes.md)
 
 ## 群组
 

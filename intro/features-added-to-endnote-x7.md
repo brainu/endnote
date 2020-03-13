@@ -37,7 +37,7 @@ Reference Manager \(8-12\) 用户购买EndNote密钥仅需支付升级价格即�
 * [快速搜索](../search/quick-search.md)
 * [同步概述](../en-web/sync-process.md)
 * [未读和已读选项](../preferences/read-unread-preferences.md)
-* [数据库窗口](../lib/about_the_library_window.md)
+* [数据库窗口](../lib/library-window.md)
 * [在 PowePoint 中插入文献](../powepoint/)
 
 ## Web of Science™ Core Collection 更新信息

@@ -8,9 +8,9 @@ description: EndNote 数据库相关介绍和操作
 
 **相关教程**
 
-* [窗口](about_the_library_window.md)
-* [显示模式](the_display_modes.md)
-* [组面板](the_groups_pane.md)
+* [窗口](library-window.md)
+* [显示模式](display-modes.md)
+* [组面板](groups-panel.md)
 * [PDF 查看面板](the_pdf_pane.md)
 * [文献列表面板](the_reflist_pane.md)
 * [搜索面板](the_search_pane.md)
